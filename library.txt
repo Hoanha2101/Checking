@@ -1,0 +1,5 @@
+pip install face_recognition
+pip install opencv-python
+pip install pytest-shutil
+pip install unidecode
+pip install pandas
